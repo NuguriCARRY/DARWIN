@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="unzip-t-mem-corruption">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/docs/vuln_samples/unzip-t-mem-corruption.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
